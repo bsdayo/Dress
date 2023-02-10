@@ -4,6 +4,9 @@
 
 记录自己的女装历程
 
+![repo size](https://img.shields.io/github/repo-size/b1acksoil/Dress)
+![last commit](https://img.shields.io/github/last-commit/b1acksoil/Dress)
+
 </div>
 
 高二那年，我穿上了人生中第一件女装，是一位群友送出的 JK 制服。我不知道是否是因为自己的性格发生了变化——穿上它的那一刻，我恍惚间觉得，自己穿女装是一件很自然、很自在的一件事情，并且迸发出一种发自内心的欣喜与满足感。从此便开启了新世界的大门。
